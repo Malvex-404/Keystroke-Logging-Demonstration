@@ -1,0 +1,6 @@
+Keystroke Logging Demonstration Report
+-----------------------------------
+Date & Time: 2025-12-25 13:02:44.448781
+
+Captured Keystrokes:
+hello[Key.space]world[Key.space]this[Key.space]is[Key.space]an[Key.space]example
